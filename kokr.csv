@@ -1,131 +1,4 @@
-﻿엠블라,MPID_エンブラ
-박쥐의 조아,MSID_蝙蝠の爪牙
-스라실,MPID_神階スラシル
-브루노,MPID_ブルーノ皇子
-라그나로크+,MSID_ライナロック＋
-???,MPID_ザカリア影
-엠블라의 가호,MSID_エンブラの加護
-엘리스,MPID_エリス
-엘리스,MPID_比翼エリス
-샤론,MPID_比翼シャロン
-프로지,MPID_フロージ
-???,MPID_フード
-3인,MPID_三人
-루피너스,MPID_ルピナス
-도적의 우상 약,MSID_盗賊の偶像・薬
-도적의 우상 고무,MSID_盗賊の偶像・鼓舞
-도적의 우상 오의,MSID_盗賊の偶像・奥義
-도적의 우상 행군,MSID_盗賊の偶像・行軍
-도적의 우상 춤,MSID_盗賊の偶像・踊り
-도적의 우상 낙뢰,MSID_盗賊の偶像・落雷
-전사의 우상,MSID_戦士の偶像
-레아,MPID_比翼レア
-레아,MPID_レア
-――,MPID_アルフォンス0
-트리핀느,MPID_トリフィンヌ
-로픈헤이즈,MSID_ロヴンヘイズ
-매복,MSID_待ち伏せ状態
-흐레이드마르,MSID_フレイズマル
-니다벨리르의 이치,MSID_ニザヴェリルの理
-브레이저브릭,MSID_ブレイザブリク
-총검 브레이저브릭,MSID_ブレイザブリク剣
-총창 브레이저브릭,MSID_ブレイザブリク槍
-총부 브레이저브릭,MSID_ブレイザブリク斧
-주총 브레이저브릭,MSID_ブレイザブリク赤魔
-창총 브레이저브릭,MSID_ブレイザブリク青魔
-취총 브레이저브릭,MSID_ブレイザブリク緑魔
-굴린부르스티,MSID_グリンブルスティ
-수르트,MPID_スルト
-레바테인,MPID_レーヴァテイン
-로키,MPID_ロキ
-스리즈,MPID_スリーズ声
-무스펠의 화염,MSID_ムスペルの炎
-레갸른,MPID_レーギャルン
-헬빈디,MPID_ヘルビンディ
-수르트,MPID_スルト名前
-???,MPID_ヘル影
-로키,MPID_ロキアンナ
-구스타프,MPID_グスタフ
-헨리에테,MPID_ヘンリエッテ
-헬빈디,MPID_ヘル
-리브,MPID_リーヴ
-스라실,MPID_スラシル
-헬빈디,MSID_ヘル
-토르,MPID_トール
-거영,MSID_巨影
-영몰의 파동,MSID_影没の波動・剣
-영몰의 파동,MSID_影没の波動・槍
-영몰의 파동,MSID_影没の波動・斧
-영몰의 파동,MSID_影没の波動・弓
-영몰의 파동,MSID_影没の波動・暗
-영몰의 파동,MSID_影没の波動・魔
-영몰의 파동,MSID_影没の波動・杖
-영몰의 파동,MSID_影没の波動・竜
-영격,MSID_影滅・初級
-영몰,MSID_影滅・中級
-영멸,MSID_影滅・上級
-안나,MPID_アンナ声
-2인,MPID_二人
-레티시아,MPID_レティシア
-스킬 습득,MID_UNIT_INFO_TO_SKILLLEARN
-스킬 변경,MID_UNIT_INFO_TO_SKILLEQUIP
-스킬 세트,MID_UNIT_INFO_TO_SKILLSET
-불의 축복,MID_ITEM_BLESSING_FIRE
-물의 축복,MID_ITEM_BLESSING_WATER
-바람의 축복,MID_ITEM_BLESSING_WIND
-땅의 축복,MID_ITEM_BLESSING_EARTH
-에너지 샘,MID_SCF_ギュミル泉
-에너지 분수,MID_SCF_ギュミル水瓶
-낙뢰의 함정,MID_SCF_落雷の罠A
-중압의 함정,MID_SCF_重圧の罠A
-낙뢰의 함정 가짜,MID_SCF_落雷の罠ダミー
-중압의 함정 가짜,MID_SCF_重圧の罠ダミー
-빛의 축복,MID_ITEM_BLESSING_LIGHT
-어둠의 축복,MID_ITEM_BLESSING_DARK
-하늘의 축복,MID_ITEM_BLESSING_HEAVEN
-이치의 축복,MID_ITEM_BLESSING_LOGIC
-요새,MID_SCF_砦
-번개탑,MID_SCF_雷
-군사의 작전실,MID_SCF_軍師
-회복탑,MID_SCF_回復
-대 보행 훈련소,MID_SCF_対歩行
-대 중장 훈련소,MID_SCF_対重装
-대 기마 훈련소,MID_SCF_対騎馬
-대 비행 훈련소,MID_SCF_対飛行
-공황의 관,MID_SCF_恐慌
-투석기,MID_SCF_投石
-여관,MID_SCF_宿屋
-백의 봉인사당,MID_SCF_白封印祠
-흑의 봉인사당,MID_SCF_黒封印祠
-음악당,MID_SCF_音楽堂
-비익의 새장,MID_SCF_防比翼鳥籠
-밭,MID_SCF_畑
-식당,MID_SCF_食堂
-LV.,MID_LEVEL2
-EXP,MID_EXP
-HP,MID_HP
-공격,MID_ATTACK
-속도,MID_AGILITY
-수비,MID_DEFENSE
-마방,MID_RESIST
-SP,MID_SKILL_POINT
-HM,MID_HEROISM_POINT
--,MSID_NONE
-None,MSID_H_NONE
-――,MPID_ナレーション
-아케우스,MPID_アキオス
-에르메스,MPID_エルメス
-MAX,MID_UNIT_INFO_EXP_MAX
-터치!,MID_UNIT_INFO_TO_TALK
-블레다디스,MPID_ブレーダッディス声
-아스크,MPID_アスク
-베로니카,MPID_ヴェロニカ2
-도마,MPID_ドーマ
-미라,MPID_ミラ
-강글로트,MPID_ガングレト
-정지의 함정,MID_SCF_停止の罠A
-정지의 함정 가짜,MID_SCF_停止の罠ダミー
-아벨,MPID_アベル
+﻿아벨,MPID_アベル
 알파드,MPID_アルファルド
 알폰스,MPID_比翼アルフォンス
 알폰스,MPID_アルフォンス
@@ -330,6 +203,7 @@ MAX,MID_UNIT_INFO_EXP_MAX
 엘트샨,MPID_エルトシャン
 엘트샨,MPID_舞踏エルトシャン
 엘레오노라,MPID_エレオノーラ
+에리스,MPID_エリス
 엘리민,MPID_神階エリミーヌ
 에린시아,MPID_夏祭エリンシア
 에린시아,MPID_エリンシア
@@ -397,6 +271,7 @@ MAX,MID_UNIT_INFO_EXP_MAX
 가이아,MPID_水着ガイア
 게일,MPID_ゲイル
 가르자스,MPID_ガルザス
+강글로트,MPID_魔器ガングレト味方
 갼렐,MPID_ギャンレル
 가론,MPID_ガロン
 문지기,MPID_総選挙門番
@@ -427,6 +302,7 @@ MAX,MID_UNIT_INFO_EXP_MAX
 카자하나,MPID_カザハナ
 하피,MPID_ハピ
 하딘,MPID_暗黒ハーディン
+하딘,MPID_ハーディン
 호크아이,MPID_ホークアイ
 히스,MPID_ヒース
 히스,MPID_忍者ヒース
@@ -656,6 +532,7 @@ MAX,MID_UNIT_INFO_EXP_MAX
 마르스,MPID_比翼マルス
 마틸다,MPID_マチルダ
 마슈,MPID_マシュー
+마티스,MPID_マチス
 메디우스,MPID_神階メディウス
 밀레디,MPID_ミレディ
 메르세데스,MPID_メルセデス
@@ -744,6 +621,7 @@ MAX,MID_UNIT_INFO_EXP_MAX
 노트,MPID_ノート味方
 노노,MPID_ハロノノ
 노노,MPID_ノノ
+니나,MPID_ニーナ
 닉스,MPID_ニュクス
 오보로,MPID_花嫁オボロ
 오보로,MPID_オボロ
@@ -943,6 +821,7 @@ MAX,MID_UNIT_INFO_EXP_MAX
 스라실,MPID_スラシル味方
 티반,MPID_ティバーン
 티반,MPID_海賊ティバーン
+치키,MPID_開花チキ
 치키,MPID_水着チキ
 치키,MPID_チキ
 치키,MPID_総選挙覚醒チキ
@@ -1203,6 +1082,7 @@ MAX,MID_UNIT_INFO_EXP_MAX
 사자왕,MPID_HONOR_エルトシャン
 용감하게 춤추는 사자,MPID_HONOR_舞踏エルトシャン
 목표는 할리우드,MPID_HONOR_エレオノーラ
+아리티아의 왕녀,MPID_HONOR_エリス
 팔신장의 성녀,MPID_HONOR_神階エリミーヌ
 여름하늘의 왕녀,MPID_HONOR_夏祭エリンシア
 망국의 왕녀,MPID_HONOR_エリンシア
@@ -1270,6 +1150,7 @@ MAX,MID_UNIT_INFO_EXP_MAX
 과자를 숨길 수 없어,MPID_HONOR_水着ガイア
 창공의 용기사,MPID_HONOR_ゲイル
 오드의 흑검사,MPID_HONOR_ガルザス
+새로운 사신,MPID_HONOR_魔器ガングレト味方
 암우왕,MPID_HONOR_ギャンレル
 암야왕,MPID_HONOR_ガロン
 대수도원의,MPID_HONOR_総選挙門番
@@ -1300,6 +1181,7 @@ MAX,MID_UNIT_INFO_EXP_MAX
 말괄량이 사무라이,MPID_HONOR_カザハナ
 마물을 부르는 한숨,MPID_HONOR_ハピ
 암흑황제,MPID_HONOR_暗黒ハーディン
+초원의 늑대,MPID_HONOR_ハーディン
 사막의 수호자,MPID_HONOR_ホークアイ
 국경없는 기사,MPID_HONOR_ヒース
 용기사 닌자의 길,MPID_HONOR_忍者ヒース
@@ -1529,6 +1411,7 @@ MAX,MID_UNIT_INFO_EXP_MAX
 비익의 왕족자제,MPID_HONOR_比翼マルス
 전설의 여기사,MPID_HONOR_マチルダ
 의로운 도적,MPID_HONOR_マシュー
+시스터 레나의 오빠,MPID_HONOR_マチス
 지룡족의 왕,MPID_HONOR_神階メディウス
 홍련의 용기사,MPID_HONOR_ミレディ
 유연한 수도사,MPID_HONOR_メルセデス
@@ -1617,6 +1500,7 @@ MAX,MID_UNIT_INFO_EXP_MAX
 매혹의 월광,MPID_HONOR_ノート味方
 천년의 마녀,MPID_HONOR_ハロノノ
 영원한 어린아이,MPID_HONOR_ノノ
+라스트 프린세스,MPID_HONOR_ニーナ
 금기의 주술사,MPID_HONOR_ニュクス
 마왕의 혼례,MPID_HONOR_花嫁オボロ
 마왕얼굴의,MPID_HONOR_オボロ
@@ -1816,6 +1700,7 @@ MAX,MID_UNIT_INFO_EXP_MAX
 오살의 마녀,MPID_HONOR_スラシル味方
 대공의 패자,MPID_HONOR_ティバーン
 배 없는 해적,MPID_HONOR_海賊ティバーン
+일렁이는 신룡의 피,MPID_HONOR_開花チキ
 해변의 용희,MPID_HONOR_水着チキ
 신룡족의 왕녀,MPID_HONOR_チキ
 신룡의 자각,MPID_HONOR_総選挙覚醒チキ
@@ -1925,6 +1810,7 @@ MAX,MID_UNIT_INFO_EXP_MAX
 극광의 브레스,MSID_極光のブレス
 기부 로픈헤이즈,MSID_機斧ロヴンヘイズ
 인버스의 암흑,MSID_インバースの暗闇
+눈을 뜬 용의 브레스,MSID_目覚めし竜のブレス
 절망의 사부,MSID_絶望の邪斧
 바아톨의 호부,MSID_バアトルの豪斧
 아이무르,MSID_アイムール
@@ -2103,6 +1989,7 @@ MAX,MID_UNIT_INFO_EXP_MAX
 고귀한 가면,MSID_高貴な仮面
 고귀한 가면+,MSID_高貴な仮面＋
 유려한 전묘의 조아,MSID_柔なる戦猫の爪牙
+초원의 늑대의 백창,MSID_草原の狼の白槍
 천제의 검,MSID_天帝の剣
 홍희의 도끼,MSID_紅姫の斧
 주홍색 용병의 쌍검,MSID_朱傭兵の双剣
@@ -2199,6 +2086,7 @@ MAX,MID_UNIT_INFO_EXP_MAX
 엘윈드,MSID_エルウインド
 심록의 도끼,MSID_深緑の斧
 심록의 도끼+,MSID_深緑の斧＋
+절암의 익조,MSID_絶闇の翼爪
 절암 엠블라,MSID_絶闇エンブラ
 막연의 브레스,MSID_茫漠のブレス
 유구의 브레스,MSID_悠久のブレス
@@ -2758,6 +2646,8 @@ MAX,MID_UNIT_INFO_EXP_MAX
 반공의 창+,MSID_反攻の槍＋
 기예 와유의 검,MSID_気鋭ワユの剣
 하정의 인랑왕의 조아,MSID_賀正の人狼王の爪牙
+생츄어리,MSID_サンクチュアリ
+생츄어리+,MSID_サンクチュアリ＋
 렉스칼리버,MSID_レクスカリバー
 렉스칼리버+,MSID_レクスカリバー＋
 롬파이어,MSID_ロムファイア
@@ -3065,6 +2955,8 @@ MAX,MID_UNIT_INFO_EXP_MAX
 독수리의 도끼+,MSID_禿鷹の斧＋
 독수리의 검,MSID_禿鷹の剣
 독수리의 검+,MSID_禿鷹の剣＋
+독수리의 창,MSID_禿鷹の槍
+독수리의 창+,MSID_禿鷹の槍＋
 일본풍 우산,MSID_和傘
 일본풍 우산+,MSID_和傘＋
 유랑의 예검,MSID_流浪の鋭剣
@@ -3125,6 +3017,77 @@ MAX,MID_UNIT_INFO_EXP_MAX
 참마도+,MSID_斬馬刀＋
 봄바람의 브레스,MSID_春風のブレス
 샬피,MSID_シャールヴィ
+운명은 바뀌었다!,MSID_運命は変わった！
+헌신,MSID_献身
+"나와라, 불의 아이들",MSID_オイデ、ヒノコタチ
+춤,MSID_踊る
+존귀한 용의 피를 이은 소녀,MSID_尊き竜の血を継ぐ娘
+끌어당기기,MSID_引き寄せ
+트릭,MSID_トリック
+무서운 꿈,MSID_こわいゆめ
+미래를 비추는 눈동자,MSID_未来を映す瞳
+미래를 비추는 눈동자 승,MSID_未来を映す瞳・承
+평온한 꿈,MSID_やさしいゆめ
+유라리 유루레리,MSID_ユラリユルレリ
+유라리 유루레리 승,MSID_ユラリユルレリ・承
+일갈,MSID_一喝
+일갈+,MSID_一喝＋
+라이브,MSID_ライブ
+치유의 소녀,MSID_癒しの乙女
+세인츠,MSID_セインツ
+세인츠+,MSID_セインツ＋
+리라이브,MSID_リライブ
+푸시,MSID_プッシュ
+푸시+,MSID_プッシュ＋
+리브로,MSID_リブロー
+리브로+,MSID_リブロー＋
+돌아가기,MSID_回り込み
+연주,MSID_奏でる
+공격수비의 응원,MSID_攻撃守備の応援
+공격수비의 응원+,MSID_攻撃守備の応援＋
+공격마방의 응원,MSID_攻撃魔防の応援
+공격마방의 응원+,MSID_攻撃魔防の応援＋
+공격속도의 응원,MSID_攻撃速さの応援
+공격속도의 응원+,MSID_攻撃速さの応援＋
+공격의 응원,MSID_攻撃の応援
+수비마방의 응원,MSID_守備魔防の応援
+수비마방의 응원+,MSID_守備魔防の応援＋
+수비의 응원,MSID_守備の応援
+마방의 응원,MSID_魔防の応援
+속도수비의 응원,MSID_速さ守備の応援
+속도수비의 응원+,MSID_速さ守備の応援＋
+속도마방의 응원,MSID_速さ魔防の応援
+속도마방의 응원+,MSID_速さ魔防の応援＋
+속도의 응원,MSID_速さの応援
+공격의 대응원,MSID_攻撃の大応援
+공격의 대응원+,MSID_攻撃の大応援＋
+수비의 대응원,MSID_守備の大応援
+수비의 대응원+,MSID_守備の大応援＋
+마방의 대응원,MSID_魔防の大応援
+마방의 대응원+,MSID_魔防の大応援＋
+속도의 대응원,MSID_速さの大応援
+속도의 대응원+,MSID_速さの大応援＋
+상호원조,MSID_相互援助
+힐,MSID_ヒール
+리커버,MSID_リカバー
+리커버+,MSID_リカバー＋
+리버스,MSID_リバース
+리버스+,MSID_リバース＋
+되돌리기,MSID_引き戻し
+레스큐,MSID_レスキュー
+레스큐+,MSID_レスキュー＋
+레스트,MSID_レスト
+레스트+,MSID_レスト＋
+리턴,MSID_リターン
+리턴+,MSID_リターン＋
+치유의 손,MSID_癒しの手
+박치기,MSID_体当たり
+노래,MSID_歌う
+밀쳐내기,MSID_ぶちかまし
+바꾸기,MSID_入れ替え
+달콤한 꿈,MSID_あまいゆめ
+운명을 바꾼다!,MSID_運命を変える！
+하얀 꿈,MSID_しろいゆめ
 성순,MSID_聖盾
 천공,MSID_天空
 유성,MSID_流星
@@ -3218,77 +3181,6 @@ MAX,MID_UNIT_INFO_EXP_MAX
 심유성,MSID_心流星
 업화질풍의 축복,MSID_業火疾風の祝福
 업화질풍의 축복+,MSID_業火疾風の祝福＋
-운명은 바뀌었다!,MSID_運命は変わった！
-헌신,MSID_献身
-"나와라, 불의 아이들",MSID_オイデ、ヒノコタチ
-춤,MSID_踊る
-존귀한 용의 피를 이은 소녀,MSID_尊き竜の血を継ぐ娘
-끌어당기기,MSID_引き寄せ
-트릭,MSID_トリック
-무서운 꿈,MSID_こわいゆめ
-미래를 비추는 눈동자,MSID_未来を映す瞳
-미래를 비추는 눈동자 승,MSID_未来を映す瞳・承
-평온한 꿈,MSID_やさしいゆめ
-유라리 유루레리,MSID_ユラリユルレリ
-유라리 유루레리 승,MSID_ユラリユルレリ・承
-일갈,MSID_一喝
-일갈+,MSID_一喝＋
-라이브,MSID_ライブ
-치유의 소녀,MSID_癒しの乙女
-세인츠,MSID_セインツ
-세인츠+,MSID_セインツ＋
-리라이브,MSID_リライブ
-푸시,MSID_プッシュ
-푸시+,MSID_プッシュ＋
-리브로,MSID_リブロー
-리브로+,MSID_リブロー＋
-돌아가기,MSID_回り込み
-연주,MSID_奏でる
-공격수비의 응원,MSID_攻撃守備の応援
-공격수비의 응원+,MSID_攻撃守備の応援＋
-공격마방의 응원,MSID_攻撃魔防の応援
-공격마방의 응원+,MSID_攻撃魔防の応援＋
-공격속도의 응원,MSID_攻撃速さの応援
-공격속도의 응원+,MSID_攻撃速さの応援＋
-공격의 응원,MSID_攻撃の応援
-수비마방의 응원,MSID_守備魔防の応援
-수비마방의 응원+,MSID_守備魔防の応援＋
-수비의 응원,MSID_守備の応援
-마방의 응원,MSID_魔防の応援
-속도수비의 응원,MSID_速さ守備の応援
-속도수비의 응원+,MSID_速さ守備の応援＋
-속도마방의 응원,MSID_速さ魔防の応援
-속도마방의 응원+,MSID_速さ魔防の応援＋
-속도의 응원,MSID_速さの応援
-공격의 대응원,MSID_攻撃の大応援
-공격의 대응원+,MSID_攻撃の大応援＋
-수비의 대응원,MSID_守備の大応援
-수비의 대응원+,MSID_守備の大応援＋
-마방의 대응원,MSID_魔防の大応援
-마방의 대응원+,MSID_魔防の大応援＋
-속도의 대응원,MSID_速さの大応援
-속도의 대응원+,MSID_速さの大応援＋
-상호원조,MSID_相互援助
-힐,MSID_ヒール
-리커버,MSID_リカバー
-리커버+,MSID_リカバー＋
-리버스,MSID_リバース
-리버스+,MSID_リバース＋
-되돌리기,MSID_引き戻し
-레스큐,MSID_レスキュー
-레스큐+,MSID_レスキュー＋
-레스트,MSID_レスト
-레스트+,MSID_レスト＋
-리턴,MSID_リターン
-리턴+,MSID_リターン＋
-치유의 손,MSID_癒しの手
-박치기,MSID_体当たり
-노래,MSID_歌う
-밀쳐내기,MSID_ぶちかまし
-바꾸기,MSID_入れ替え
-달콤한 꿈,MSID_あまいゆめ
-운명을 바꾼다!,MSID_運命を変える！
-하얀 꿈,MSID_しろいゆめ
 갑옷의 수호자 원간 1,MSID_鎧の護り手・遠間1
 갑옷의 수호자 원간 2,MSID_鎧の護り手・遠間2
 갑옷의 수호자 원간 3,MSID_鎧の護り手・遠間3
@@ -3319,12 +3211,16 @@ MAX,MID_UNIT_INFO_EXP_MAX
 칼날의 수호자 근간 1,MSID_刃の護り手・近間1
 칼날의 수호자 근간 2,MSID_刃の護り手・近間2
 칼날의 수호자 근간 3,MSID_刃の護り手・近間3
+공격속도의 근영 1,MSID_攻撃速さの近影1
+공격속도의 근영 2,MSID_攻撃速さの近影2
+공격속도의 근영 3,MSID_攻撃速さの近影3
 곡기비행 1,MSID_曲技飛行1
 곡기비행 2,MSID_曲技飛行2
 곡기비행 3,MSID_曲技飛行3
 선도의 전령 천 1,MSID_先導の伝令・天1
 선도의 전령 천 2,MSID_先導の伝令・天2
 선도의 전령 천 3,MSID_先導の伝令・天3
+계속 모두와 함께,MSID_ずっとみんなと一緒
 공격수비의 방성전 1,MSID_攻撃守備の防城戦1
 공격수비의 방성전 2,MSID_攻撃守備の防城戦2
 공격수비의 방성전 3,MSID_攻撃守備の防城戦3
@@ -4290,6 +4186,7 @@ HP속도 2,MSID_HP速さ2
 되받아치기 1,MSID_切り返し1
 되받아치기 2,MSID_切り返し2
 되받아치기 3,MSID_切り返し3
+되받아치기 4,MSID_切り返し4
 오의의 고동,MSID_奥義の鼓動
 적의 사투 기마 1,MSID_赤の死闘・騎馬1
 적의 사투 기마 2,MSID_赤の死闘・騎馬2
@@ -4517,6 +4414,13 @@ S드링크,MSID_Ｓドリンク
 속도마방의 인연 2,MSID_速さ魔防の絆2
 속도마방의 인연 3,MSID_速さ魔防の絆3
 속도마방의 인연 4,MSID_速さ魔防の絆4
+속도마방의 방벽 1,MSID_速さ魔防の防壁1
+속도마방의 방벽 2,MSID_速さ魔防の防壁2
+속도마방의 방벽 3,MSID_速さ魔防の防壁3
+속도마방의 비오 1,MSID_速さ魔防の秘奥1
+속도마방의 비오 2,MSID_速さ魔防の秘奥2
+속도마방의 비오 3,MSID_速さ魔防の秘奥3
+속도마방의 비오 4,MSID_速さ魔防の秘奥4
 속도마방의 밀집 1,MSID_速さ魔防の密集1
 속도마방의 밀집 2,MSID_速さ魔防の密集2
 속도마방의 밀집 3,MSID_速さ魔防の密集3
