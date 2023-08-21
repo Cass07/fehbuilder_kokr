@@ -261,6 +261,7 @@ MAX,MID_UNIT_INFO_EXP_MAX
 에이트르,MEID_魔器アイト
 허무의 하인,MEID_HONOR_魔器アイト
 헤이드,MEID_ヘイズ敵
-헤이드,MEID_ヘイズ敵
+헤이드,MEID_ヘイズ敵0
 저주받은 여신,MEID_HONOR_ヘイズ敵
 저주받은 여신,MEID_HONOR_ヘイズ敵0
+앞으로,MID_UNIT_INFO_EXP_REMAIN
