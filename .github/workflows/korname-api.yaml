@@ -14,7 +14,9 @@ jobs:
         - uses: actions/checkout@v4
 
         - name: GET Request to API
-          run: curl -X GET "https://feh.wiki/api/get_kor_locale_list.php" -o kokr.json
+          run: | 
+            curl -d "pass=${{ secrets.API_PASS }}" \
+            -X POST "https://feh.wiki/api/get_kor_locale_list.php" -o kokr.json
 
         - name: Commit files
           uses: stefanzweifel/git-auto-commit-action@v5
