@@ -1,0 +1,22 @@
+name: Get KorName API
+on:
+  push:
+      branches:
+      - test
+jobs:
+    build:
+        runs-on: ubuntu-latest
+
+        permissions:
+          contents: write
+
+        steps:
+        - uses: actions/checkout@v4
+
+        - name: GET Request to API
+          run: curl -X GET "https://feh.wiki/api/get_kor_locale_list.php" -o kokr.json
+
+        - name: Commit files
+          uses: stefanzweifel/git-auto-commit-action@v5
+          with:
+            commit_message: Changed files by GitHub Actions
