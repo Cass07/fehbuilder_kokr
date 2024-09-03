@@ -1,4 +1,4 @@
-name: Get KorName API
+name: Get KorName API Dispatch
 on:
   repository_dispatch:
     types: [build_kokr]
