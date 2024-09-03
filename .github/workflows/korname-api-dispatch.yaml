@@ -1,8 +1,7 @@
 name: Get KorName API
 on:
-  push:
-      branches:
-      - main
+  repository_dispatch:
+    types: [build_kokr]
 jobs:
     build:
         runs-on: ubuntu-latest
@@ -18,5 +17,7 @@ jobs:
 
         - name: Commit files
           uses: stefanzweifel/git-auto-commit-action@v5
+          env:
+            DISPATCH_COMMIT_MSG: ${{ github.event.client_payload.message }}
           with:
-            commit_message: Changed files by Commit
+            commit_message: Changed files by FEH Message - ${{ env.DISPATCH_COMMIT_MSG }}
