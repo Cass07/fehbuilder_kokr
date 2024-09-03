@@ -15,7 +15,8 @@ jobs:
 
         - name: GET Request to API
           run: | 
-            curl -d "pass=${{ secrets.API_PASS }}" \
+            curl -d "{\"pass\":\"${{ secrets.API_PASS }}\"}" \
+            -H "Content-Type: application/json" \
             -X POST "https://feh.wiki/api/get_kor_locale_list.php" -o kokr.json
 
         - name: Commit files
