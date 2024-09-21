@@ -13,11 +13,17 @@ jobs:
         steps:
         - uses: actions/checkout@v4
 
-        - name: GET Request to API
+        - name: GET Request to API, Make JSON File
           run: | 
             curl -d "{\"pass\":\"${{ secrets.API_PASS }}\"}" \
             -H "Content-Type: application/json" \
             -X POST "https://feh.wiki/api/get_kor_locale_list.php" -o kokr.json
+
+        - name: GET Request to API, Make TEXT File
+          run: |
+              curl -d "{\"pass\":\"${{ secrets.API_PASS }}\", \"type\":\"text\"}" \
+              -H "Content-Type: application/json" \
+              -X POST "https://feh.wiki/api/get_kor_locale_list.php" -o kokr.txt
 
         - name: Commit files
           uses: stefanzweifel/git-auto-commit-action@v5
