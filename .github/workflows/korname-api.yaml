@@ -1,31 +1,34 @@
-name: Get KorName API
+name: Get KorName API and Dispatch
 on:
   push:
-      branches:
+    branches:
       - main
+  repository_dispatch:
+    types: [build_kokr]
 jobs:
-    build:
-        runs-on: ubuntu-latest
+  build:
+    runs-on: ubuntu-latest
 
-        permissions:
-          contents: write
+    permissions:
+      contents: write
 
-        steps:
-        - uses: actions/checkout@v4
+    steps:
+      - uses: actions/checkout@v4
 
-        - name: GET Request to API, Make JSON File
-          run: | 
-            curl -d "{\"pass\":\"${{ secrets.API_PASS }}\"}" \
-            -H "Content-Type: application/json" \
-            -X POST "https://feh.wiki/api/get_kor_locale_list.php" -o kokr.json
+      - name: GET Request to API, Make JSON File
+        run: |
+          curl -d "{\"pass\":\"${{ secrets.API_PASS }}\"}" \
+          -H "Content-Type: application/json" \
+          -X POST "https://feh.wiki/api/get_kor_locale_list.php" -o kokr.json
 
-        - name: GET Request to API, Make TEXT File
-          run: |
-              curl -d "{\"pass\":\"${{ secrets.API_PASS }}\", \"type\":\"text\"}" \
-              -H "Content-Type: application/json" \
-              -X POST "https://feh.wiki/api/get_kor_locale_list.php" -o kokr.txt
+      - name: GET Request to API, Make TEXT File
+        run: |
+          curl -d "{\"pass\":\"${{ secrets.API_PASS }}\", \"type\":\"text\"}" \
+          -H "Content-Type: application/json" \
+          -X POST "https://feh.wiki/api/get_kor_locale_list.php" -o kokr.txt
 
-        - name: Commit files
-          uses: stefanzweifel/git-auto-commit-action@v5
-          with:
-            commit_message: Changed files by Commit
+      - name: Commit files
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: |
+            ${{ github.event_name == 'repository_dispatch' && 'Changed files by FEH Message - ${{ github.event.client_payload.message }}' || 'Changed files by Commit'}}
