@@ -6490,3 +6490,5 @@ MEID_レーラズ : 레라드
 MEID_HONOR_レーラズ : 마음의 매장하는 손
 MEID_HONOR_レギン2 : 소인국의 후계자
 MEID_レギン2 : 레긴
+MEID_ダグ2 : 다그
+MEID_HONOR_ダグ2 : 빛나는 양화
